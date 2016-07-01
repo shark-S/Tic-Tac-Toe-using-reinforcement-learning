@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-using-reinforcement-learning
 Learn computer to play Tic Tac Toe using reinforcement learning.
 
-This is an excersice problem(1.4) in [Book](webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html). Here computer play with itself. There are 10,000 episodes to train computer which data is stored in [data.csv](https://github.com/shark-S/Tic-Tac-Toe-using-reinforcement-learning/blob/master/data.csv) and graph is in this [image](https://github.com/shark-S/Tic-Tac-Toe-using-reinforcement-learning/blob/master/Selfplay%20random_-1loss.png).
+This is an excersice problem(1.4) in this [Book](webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html). Here computer play with itself. There are 10,000 episodes to train computer which data is stored in [data.csv](https://github.com/shark-S/Tic-Tac-Toe-using-reinforcement-learning/blob/master/data.csv) and graph is in this [image](https://github.com/shark-S/Tic-Tac-Toe-using-reinforcement-learning/blob/master/Selfplay%20random_-1loss.png).
 
 After 10,000 episodes it show good result with its opponent player which is human :) .
 
